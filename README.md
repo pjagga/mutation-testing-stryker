@@ -22,4 +22,6 @@ Other way to report is to use html reporter as as shown below:
 
 ### Try it yourself
 
-checkout "step1" branch to explore a simple example
+checkout "step1" branch to explore a simple example  
+
+For more information follow steps in this [blog](https://medium.com/@priyanka.jagga/introduction-to-mutation-testing-with-stryker-1338451ad4e5)
