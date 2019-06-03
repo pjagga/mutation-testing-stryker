@@ -19,3 +19,7 @@ One of the easiest to read is the clear text reporter as follow:
 
 Other way to report is to use html reporter as as shown below:
 ![Screenshot](screenshots/htmlreport.png)
+
+### Try it yourself
+
+checkout "step1" branch to explore a simple example
