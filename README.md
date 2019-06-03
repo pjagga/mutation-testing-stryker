@@ -1,4 +1,4 @@
-## mutation testing
+## Mutation Testing
 
 Mutation testing is a way of testing the quality of your tests by introducing changes into application code and seeing if our test suite detects them.
 
