@@ -22,20 +22,6 @@ Note: Use spacebar for multiple selection or choose html and press enter
 ? Which package manager do you want to use? npm
 ```
 
-This will generate stryker.conf file in your repo. Looks like this
-
-```module.exports = function(config) {
-  config.set({
-    mutator: "javascript",
-    packageManager: "npm",
-    reporters: ["html", "clear-text", "progress"],
-    testRunner: "jest",
-    transpilers: [],
-    coverageAnalysis: "off"
-  });
-};
-```
-
 Now add the source file you want to generate your mutants for (it will be the source code file), in this case './index.js'. After adding mutate: ["./index.js"] stryker.conf.js looks as follows:
 
 ```module.exports = function(config) {
