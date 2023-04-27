@@ -14,7 +14,7 @@
     "jest": "^24.8.0"
   },
   "devDependencies": {
-    "@stryker-mutator/core": "^2.0.0",
+    "@stryker-mutator/core": "^6.4.2",
     "@stryker-mutator/html-reporter": "^2.0.0",
     "@stryker-mutator/javascript-mutator": "^2.0.0",
     "@stryker-mutator/jest-runner": "^2.0.0"
